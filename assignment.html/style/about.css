@@ -1,0 +1,15 @@
+body{
+    background-color: goldenrod;
+    overflow: scroll;
+}
+.topv a{
+    float: left;
+    color: goldenrod;
+    text-align: center;
+    font-weight: bolder;
+}
+p{
+    font: optional;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: aqua;
+}
